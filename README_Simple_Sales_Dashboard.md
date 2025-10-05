@@ -62,14 +62,6 @@ Build a clean and interactive dashboard that shows **sales performance by produc
    - Slicer → Region  
 4. Save and export to PDF or screenshot.
 
----
-
-## 📤 Submission
-All project files are available in this repository:  
-**GitHub Repo:** [https://github.com/your-username/Simple-Sales-Dashboard-Task8](https://github.com/your-username/Simple-Sales-Dashboard-Task8)
-
----
-
 ## 🧠 Interview Q&A Quick Notes
 
 | Question | Short Answer |
@@ -84,6 +76,6 @@ All project files are available in this repository:
 
 ---
 
-🖋 **Created by:** [Your Name]  
-📅 **Date:** October 2025  
+🖋 **Created by:** Aditya Kumar Singh  
+📅 **Date:** 4 October 2025  
 📚 **Course Task:** Task 8 – Simple Sales Dashboard Design
